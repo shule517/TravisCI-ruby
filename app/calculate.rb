@@ -7,4 +7,7 @@ class Calculate
   def minus(a, b)
     a - b
   end
+  def multi(a, b)
+    a * b
+  end
 end

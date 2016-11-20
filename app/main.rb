@@ -4,3 +4,4 @@ require './app/calculate.rb'
 calc = Calculate.new
 puts calc.plus(2, 3)
 puts calc.minus(10, 4)
+puts calc.multi(3, 4)
